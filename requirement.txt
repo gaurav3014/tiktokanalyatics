@@ -1,4 +1,4 @@
 python
-plotly
+plotly.express
 subprocess
 pandas 
