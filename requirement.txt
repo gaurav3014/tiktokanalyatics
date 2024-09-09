@@ -1,4 +1,5 @@
-python
-plotly.express
 subprocess
 pandas 
+streamlit
+pandas
+plotly_express==0.4.0
